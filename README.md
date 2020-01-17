@@ -10,11 +10,6 @@ You can open this script in any internet browser
 
 Internet Browser
 
-### Installing
-
-N/A
-
-
 ## Built With
 
 * HTML
@@ -24,9 +19,6 @@ N/A
 
 * **Ian Blott**
 
-## Versioning
-
-N/A
 
 ## Authors
 
