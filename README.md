@@ -6,7 +6,7 @@ A quick Javascript file i made made in 2014 after finding a list of 'equivalent'
 
 You can open this script in any internet browser
 
-### Prerequisites
+## Prerequisites
 
 Internet Browser
 
@@ -14,13 +14,6 @@ Internet Browser
 
 N/A
 
-## Running the tests
-
-N/A
-
-## Deployment
-
-N/A
 
 ## Built With
 
